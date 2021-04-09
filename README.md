@@ -16,11 +16,11 @@ Actiuni:
 - Calculare medie a unui student
 
 Clase:
--Student 
- -StudentOlimpic
--StudentFactory
--Catalog
--Profesor
--Materie
--Main
--Service
+- Student 
+ - StudentOlimpic
+- StudentFactory
+- Catalog
+- Profesor
+- Materie
+- Main
+- Service
